@@ -1,0 +1,9 @@
+name: fruitteams
+version: '${version}'
+main: me.lulu.fruitteams.FruitTeams
+api-version: '1.20'
+
+depend:
+  - KotlinLib
+
+softdepend: []
